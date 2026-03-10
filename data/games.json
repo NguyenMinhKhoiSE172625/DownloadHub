@@ -1,5 +1,26 @@
 [
   {
+    "id": "70f0f97bc6445483",
+    "name": "AnyDesk Full",
+    "image": "https://hadoantv.com/wp-content/uploads/2025/08/download-AnyDesk-hadoan-tv-510x287.jpg",
+    "releaseDate": "2026-03-10",
+    "genres": [],
+    "source": "linkneverdie.com",
+    "type": "software",
+    "parts": [
+      {
+        "name": "Google Drive",
+        "url": "https://www.filecrypt.cc/Container/C92935659C.html"
+      }
+    ],
+    "description": "",
+    "notepadUrl": "https://hadoantvnotepad.com/note/MtVksuwrp1h0AMt813YEO8mD0CeVxp0KAA9CYoKT",
+    "autoSync": false,
+    "lastSync": "2026-03-10T06:15:12.407Z",
+    "syncStatus": "success",
+    "createdAt": "2026-03-10T06:15:12.296Z"
+  },
+  {
     "id": "f621a13c2539b802",
     "name": "Adobe Premiere Pro 2026",
     "image": "https://hadoantv.com/wp-content/uploads/2026/01/download-Adobe-Premiere-Pro-2026-hadoan-tv-510x287.jpg",
