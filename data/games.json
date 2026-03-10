@@ -7,12 +7,17 @@
     "genres": [],
     "source": "hadoantv.com",
     "type": "software",
-    "parts": [],
+    "parts": [
+      {
+        "name": "Google Drive",
+        "url": "https://www.filecrypt.cc/Container/B7886DDD70.html"
+      }
+    ],
     "description": "",
     "notepadUrl": "https://hadoantvnotepad.com/note/SGvfGf0zKPse31TuZwHi1QIrrvebl3YMEWED0Et1",
     "autoSync": true,
-    "lastSync": null,
-    "syncStatus": null,
+    "lastSync": "2026-03-10T06:37:16.952Z",
+    "syncStatus": "success",
     "createdAt": "2026-03-10T06:37:15.706Z"
   },
   {
