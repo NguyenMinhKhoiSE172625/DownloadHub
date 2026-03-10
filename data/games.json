@@ -1,5 +1,33 @@
 [
   {
+    "id": "49af448b1102598b",
+    "name": "Repo",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxmqAJlocqf-i4I3VCagN0uQS62Fca8wCh5g&s",
+    "releaseDate": "2026-03-10",
+    "genres": [],
+    "source": "linkneverdie.com",
+    "parts": [
+      {
+        "name": "Google Drive",
+        "url": "https://www.filecrypt.cc/Container/E4BDFBE612.html"
+      },
+      {
+        "name": "Google Drive",
+        "url": "https://www.filecrypt.cc/Container/75793E6BFC.html"
+      },
+      {
+        "name": "Google Drive Direct",
+        "url": "https://drive.google.com/file/d/1ACOMSNh__SyTf_YQvoi75ch5F8uWQ3ZO/view"
+      }
+    ],
+    "description": "",
+    "notepadUrl": "https://hadoantvnotepad.com/note/iYnLhGsbVu3It8b0FuuicyZpbjkCuz0G8BmpKmcQ",
+    "autoSync": false,
+    "lastSync": "2026-03-10T05:39:32.557Z",
+    "syncStatus": "success",
+    "createdAt": "2026-03-10T05:39:32.421Z"
+  },
+  {
     "id": "444bbc1c4e9dd6b4",
     "name": "Palworld",
     "image": "https://cdn-media.sforum.vn/storage/app/media/wp-content/uploads/2024/01/palworld-thumbnail.jpg",
@@ -91,7 +119,7 @@
     "description": "",
     "notepadUrl": "https://hadoantvnotepad.com/note/xlwusLCkUT2QDlh0ZbyWJflY4dM43NUHKMFy4789",
     "autoSync": true,
-    "lastSync": "2026-03-10T05:34:35.090Z",
+    "lastSync": "2026-03-10T05:34:36.029Z",
     "syncStatus": "success",
     "createdAt": "2026-03-10T05:34:32.293Z"
   },
