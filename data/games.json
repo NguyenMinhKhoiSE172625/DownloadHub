@@ -1,5 +1,21 @@
 [
   {
+    "id": "1c571a6949dba88f",
+    "name": "Resident Evil Village",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRds4gHlXBk5Rv_t7t1W5eIWRW9e9V5hZOGUkgCa5bcgB8YuRExeWy-qSP4JdFcOhqMx1G7obLvsTByr4kEZsfJze5lPRW4p4-yWUopog&s=10",
+    "releaseDate": "2026-03-12",
+    "genres": [],
+    "source": "hadoantv.com",
+    "type": "game",
+    "parts": [],
+    "description": "",
+    "notepadUrl": "https://hadoantvnotepad.com/note/Ct5ViDeuRcET2sT1klXOneauAxcHqiqGOu3t4egx",
+    "autoSync": false,
+    "lastSync": null,
+    "syncStatus": null,
+    "createdAt": "2026-03-12T11:52:56.918Z"
+  },
+  {
     "id": "fe49b70fb9fb80cc",
     "name": "Resident Evil 6 Việt Hóa",
     "image": "https://image.api.playstation.com/vulcan/img/cfn/11307iFekmRyvczwhwVHpodf6iiXjo8Duo5SDvbbjvQX0vC0NZ6lXPooKItDs7qBEGnf_OUQu9sqPtfVVbAnZFU8Mb8DpvH_.png?w=440",
